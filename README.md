@@ -2,6 +2,11 @@
 
 A full-stack AI-powered interview preparation platform that helps candidates practice, analyze, and improve their interview performance — with real-time speech analysis, webcam body language feedback, LLM-generated coaching, and guided mock interviews.
 
+## 🖥️ Application Preview
+
+> Clean, modern GUI with month navigation, event search, and a real-time event panel.
+![AI-Interview-Coach](image.png)
+
 ---
 
 ## 🚀 Features
