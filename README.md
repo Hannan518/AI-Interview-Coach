@@ -4,8 +4,7 @@ A full-stack AI-powered interview preparation platform that helps candidates pra
 
 ## 🖥️ Application Preview
 
-> Clean, modern GUI with month navigation, event search, and a real-time event panel.
-![AI-Interview-Coach](image.png)
+![AI-Interview-Coach](images/image.png)
 
 ---
 
